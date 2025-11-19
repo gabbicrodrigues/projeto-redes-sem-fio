@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # --- Configurações da Simulação HF (Alta Frequência - 2000 km) ---
 np.random.seed(42) # Usando uma semente fixa para resultados consistentes
-num_pacotes = 10
+num_pacotes = 10000
 distancia_km = 2000
 
 # --- Eixo X (Pacotes) ---
